@@ -12,7 +12,7 @@ const Contact = () => {
           href="mailto:your-email@example.com"
           className="text-blue-400 underline"
         >
-          your-email@example.com
+          yibeltalnetsanet2006@gmail.com
         </a>
       </div>
     </section>
